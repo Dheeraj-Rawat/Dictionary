@@ -14,4 +14,4 @@ Go to below mentioned link and copy the URL to your script file.
 
 ```http
   https://dictionaryapi.dev/
-```|
+
